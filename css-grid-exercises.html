@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>GRID EXERCISE</title>
+        <style>
+            .main{
+                display: grid;
+                grid-template-columns: 200px 75px;
+                margin-bottom: 100px;
+                
+            }
+            .one{
+                background-color: aqua;
+            }
+            .two{
+                background-color:wheat;
+            }
+
+            .container{
+                display: grid;
+                grid-template-columns: 50px 1fr 75px ;
+                margin-bottom: 100px;
+            }
+            .col1{
+                
+                background-color: cadetblue;
+            }
+            .col2{
+                background-color: yellowgreen;
+
+            }
+            .col3{
+                background-color: lemonchiffon;
+            }
+
+            .large{
+                display: grid;
+                grid-template-columns: 1fr 1fr 1fr 1fr;
+                column-gap: 20px;
+                row-gap: 10px;
+            }
+
+            .small{
+                background-color: forestgreen;
+            }
+
+        </style>
+    </head>
+    <body>
+        <div class="main">
+        <div class="one">200px</div>
+        <div class="two">75px</div>
+    </div>
+
+    <div class="container">
+        <div class="col1">Col1</div>
+        <div class="col2">Col2</div>
+        <div class="col3">Col3</div>
+    </div>
+
+    <div class="large">
+        <div class="small">Col1</div>
+        <div class="small">Col2</div>
+        <div class="small">Col3</div>
+        <div class="small">Col4</div>
+        <div class="small">Col5</div>
+        <div class="small">Col6</div>
+        <div class="small">Col7</div>
+        <div class="small">Col8</div>
+    </div>
+    </body>
+</html>
