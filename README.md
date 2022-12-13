@@ -18,8 +18,10 @@ This Is my exercises to learn Html and CSS
 ![div1](https://user-images.githubusercontent.com/73493598/207239253-bb9e13e4-3ad7-4abf-b780-3075a3946629.png)
 ![div2](https://user-images.githubusercontent.com/73493598/207239259-ab1f7fe9-a07d-47d5-bfdc-50cbeef20cb2.png)
 ![flex](https://user-images.githubusercontent.com/73493598/207239274-d728669c-c31a-4fd5-8300-df752ee50d2d.png)
-![flex-box](https://user-images.g![google](https://user-images.githubusercontent.com/73493598/207239304-fc59a7a5-16cc-48d2-ba69-59810cc8dc07.png)
-ithubusercontent.com/73493598/207239293-76a3384e-468d-46dc-a8a3-67e0a42d50f2.png)
+![flex-box](https://user-images.githubusercontent.com/73493598/207239607-e1af31d0-deb0-49c5-b08c-3371a6c94bc8.png)
+![google](https://user-images.githubusercontent.com/73493598/207239673-eb58cd07-c706-4ea5-8b1d-d1796bf82589.png)
+
+
 ![grid](https://user-images.githubusercontent.com/73493598/207239335-6f3b2567-7acc-4b61-b70b-e8b3f9a1caac.png)
 ![Image](https://user-images.githubusercontent.com/73493598/207239342-a0f0e3a8-11fb-4481-9f14-d3d9a0970bb8.png)
 
